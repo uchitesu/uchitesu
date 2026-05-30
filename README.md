@@ -1,10 +1,10 @@
 <div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=real-value&color=a4cef4&style=plastic&label=dope" />
+  <img src="https://komarev.com/ghpvc/?username=real-value&color=ec9dc1&style=plastic&label=yeah?" />
 </div>
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 <div align="center">
   
-![](https://github.com/vlkhana/vlkhana/blob/3192d19d6832fa84bbaaa49c7ee727c3a24f85fd/IMG_2991.png)
+![](https://github.com/uchitesu/uchitesu/blob/526c40b3da911a4d5c2c3f312aa465440b8e4726/IMG_3099.png)
   
 </div>
 <div align="center">
