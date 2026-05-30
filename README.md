@@ -1,7 +1,6 @@
 <div align="center"> 
   <img src="https://komarev.com/ghpvc/?username=real-value&color=ec9dc1&style=plastic&label=10mil" />
-</div>
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+</div>ㅤㅤㅤㅤㅤㅤ
 <div align="center">
   
 ![](https://github.com/uchitesu/uchitesu/blob/526c40b3da911a4d5c2c3f312aa465440b8e4726/IMG_3099.png)
