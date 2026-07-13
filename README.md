@@ -3,7 +3,7 @@
 </div>ㅤㅤㅤㅤㅤㅤ
 <div align="center">
   
-![](https://github.com/uchitesu/uchitesu/blob/526c40b3da911a4d5c2c3f312aa465440b8e4726/IMG_3099.png)
+![](https://github.com/uchitesu/uchitesu/blob/c7f5c8c2a081e2716bee32151d77cf6fa7df93a6/IMG_3409.png)
   
 </div>
 <div align="center">
